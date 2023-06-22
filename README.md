@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Adrian. Coding has a special place in my heart since 2017. Currently I'm studying Computer Science at Warsaw University of Technology and trying to use all the knowledge I gained there in practice.
+
 <!--
 **Adioos5/Adioos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
