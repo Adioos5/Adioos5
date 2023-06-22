@@ -5,7 +5,7 @@
 </h5>
 
 <h5 align="center">
-  Currently I'm studying Computer Science at Warsaw University of Technology 📚 and trying to use all the knowledge I gained there in practice 💻 
+  Currently I'm studying Computer Science at Warsaw University of Technology 📚 and working on using all the knowledge I gained there in practice 💻 
 </h5>
 
 <h5 align="center">
