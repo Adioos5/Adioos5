@@ -5,7 +5,7 @@
 </h4>
 
 <h4 align="center">
-  Currently I'm studying Computer Science at Warsaw University of Technology 📚 and starting to use all the knowledge I gained there in practice 💻 
+  Currently I'm studying Computer Science at Warsaw University of Technology 📚
 </h4>
 
 <h4 align="center">
